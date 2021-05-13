@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Phone book</string>
+    <string name="add">Add a contact</string>
+    <string name="copy_phone">Copy the phone book</string>
+    <string name="delete_abonent">Delete a subscriber</string>
+    <string name="Name_hint">Name</string>
+    <string name="Phone_hint">Phone</string>
+    <string name="button">Add</string>
+    <string name="app_delete">Delete</string>
+    <string name="app_add">Add contacts</string>
+</resources>

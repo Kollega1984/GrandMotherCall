@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF6A00</color>
+    <color name="colorPrimaryDark">#FFA400</color>
+    <color name="colorAccent">#1049A9</color>
+    <color name="myLite">#FFCD73</color>
+    <color name="colorGradientStart">#6A92D4</color>
+    <color name="colorGradientEnd">#1049A9</color>
+    <color name="colorGradientStartGreen">#5DD0C0</color>
+    <color name="colorGradientEndGreen">#1E786C</color>
+</resources>

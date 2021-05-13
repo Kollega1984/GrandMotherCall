@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Телефонная Книга</string>
+    <string name="Name_hint">Введите Имя</string>
+    <string name="Phone_hint">Введите телефон</string>
+    <string name="add">Добавить контакт</string>
+    <string name="app_add">Добавление контакта</string>
+    <string name="app_delete">Удаление</string>
+    <string name="button">Добавить</string>
+    <string name="copy_phone">Скопировать телефонную книгу</string>
+    <string name="delete_abonent">Удалить абонента</string>
+</resources>
