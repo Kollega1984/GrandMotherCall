@@ -78,7 +78,7 @@ public class AdapterDelete extends RecyclerView.Adapter<AdapterDelete.myHolder> 
     }
 
     public class myHolder extends RecyclerView.ViewHolder {
-
+    //commit test
         ImageView ImageView;
         TextView name;
         TextView phoneNumber;
