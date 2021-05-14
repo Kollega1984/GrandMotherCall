@@ -12,7 +12,7 @@ import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.grandmothercall.bdDAO.Abonent;
-
+//kjkjh
 import java.util.ArrayList;
 import java.util.List;
 
