@@ -44,6 +44,7 @@
         android:background="@color/colorPrimary"
         android:onClick="AddNewAbonent"
         android:text="@string/button"
+        android:textColor="@color/myLite"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
