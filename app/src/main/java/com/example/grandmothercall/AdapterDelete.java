@@ -12,7 +12,7 @@ import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.grandmothercall.bdDAO.Abonent;
-
+//kjkjh
 import java.util.ArrayList;
 import java.util.List;
 
@@ -78,7 +78,7 @@ public class AdapterDelete extends RecyclerView.Adapter<AdapterDelete.myHolder> 
     }
 
     public class myHolder extends RecyclerView.ViewHolder {
-
+    //commit test
         ImageView ImageView;
         TextView name;
         TextView phoneNumber;
